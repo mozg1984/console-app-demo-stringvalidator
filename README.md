@@ -12,7 +12,7 @@ Description
 
 Usage
 	php bin/console validate &lt;filepath&gt;
-	&lt;filepath&gt; - path to file that contents validation string
+	<br/ >&lt;filepath&gt; - path to file that contents validation string
 
 Note
 
