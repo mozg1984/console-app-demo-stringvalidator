@@ -12,9 +12,9 @@ Description
 
 Usage
 	
-	php bin/console validate &lt;filepath&gt;
+	php bin/console validate -filepath
 	
-	&lt;filepath&gt; - path to file that contents validation string
+	-filepath - path to file that contents validation string
 
 Note
 
