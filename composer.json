@@ -1,0 +1,21 @@
+{
+    "name": "demo/app",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Khisamutdinov Radik",
+            "email": "mozg1984@gmail.com"
+        }
+	],
+    "require": {
+        "khisamutdinov/stringvalidator": "dev-master",
+        "symfony/console": "^3.4",
+        "php-di/php-di": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "src"
+        }
+	}
+}
